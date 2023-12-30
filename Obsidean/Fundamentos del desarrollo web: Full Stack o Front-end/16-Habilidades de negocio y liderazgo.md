@@ -1,0 +1,10 @@
+
+
+ Para ser exitoso hay que ir más allá del conocimiento técnico. Necesitas saber algunas cosas que no requieren este tipo de conocimiento. Veamos algunas de las más importantes. Primero, el 96% de los desarrolladores dicen que trabajan en equipo, pero sus habilidades de comunicación no son las mejores, por lo que es importante saber manejar y solucionar problemas con los otros miembros de tu equipo sin necesidad de confrontar la otra persona. 
+ 
+ 
+ ![[2023-12-30_02-37.png]]
+ 
+ 
+ 
+ Recuerda: al trabajar en equipo más vale comentar algo a tiempo, que evita una inmensa bola de nieve y que después sea muy complicado de solucionar. Hacer reuniones para definir los planes de trabajo no es cosa fácil. Las personas siempre ven las cosas de diferente perspectiva, pero cuando se logra hacer sinergia entre todos, se pueden construir productos increíbles. Aprender a comunicarse también significa poder presentar y defender tus ideas, lo cual es muy importante cuando tienes la convicción de que tu idea puede aportar mucho a un proyecto. E incluso, en ocasiones, deberás hacer dichas presentaciones ante un público mayor y debes prepararte para ello también. Aparte de asegurarte de tener tu portafolio de LinkedIn al día, como desarrollador, necesitas una cuenta de Github actualizada con tus proyectos, pues esta herramienta se ha convertido en un gran referente, donde es común el book o currículum del desarrollador en estos días. Otra cosa en las que debes de trabajar es sobre cómo negociar salarios o costos de los proyectos en los que participas. Así, sabes cómo interactuar con las personas y cómo comunicarte para poder lograrlos sin problemas. Recuerda: la comunicación es una habilidad que hará tu trabajo una experiencia más placentera y te dará la oportunidad de moverte entre distintos roles tanto en una organización como en un equipo de trabajo

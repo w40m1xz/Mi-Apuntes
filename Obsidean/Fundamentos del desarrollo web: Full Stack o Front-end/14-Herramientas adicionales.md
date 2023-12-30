@@ -1,0 +1,16 @@
+
+ay un montón de otras herramientas que puedes usar para hacer más fácil tu trabajo. Por ejemplo, aunque se pueda administrar bases de datos a través de la terminal, hay aplicaciones que permiten visualizar estos datos a través de una interface mucho mejor como phpMyAdmin. Esta es por lo general la aplicación que usa la gran mayoría de probadores de servicios de hosting, así que tal vez te la hayas cruzado en algún momento. Y si trabajas con algún NoSQL, como MongoDB, entonces Robomongo es la opción. Otra herramienta que es popular entre los desarrolladores se llama "Control de versiones".
+
+![[2023-12-30_02-27.png]]
+
+
+Esta herramienta es como tu máquina del tiempo personal y que te permite navegar a cualquier etapa previa en tu proyecto y recuperar algún cambio que hayas hecho. De este tipo de control de versiones, el sistema más popular se llama Git, el cual te permite ir llevando un histórico de cambios clave a través de commits que vayas haciendo. O en ciertos casos, hacer pruebas sin afectar absolutamente nada el proyecto cuando trabajas con branchs o ramas. 
+
+![[2023-12-30_02-29.png]]
+
+
+Para hacer más social git existe un servicio muy popular llamado Github, en el cual, además de tener todas las características propias de git, puedes hacer un trabajo colaborativo con todo tu equipo, lo cual agiliza tu flujo de desarrollo. Hay ciertas herramientas que te permiten crear flujos de trabajo para las tareas comunes, como el transpiling, minificado de código o la depuración del mismo. GulpJS, Bower o CodeKit son algunas de las herramientas que te van a servir para automatizar este tipo de tareas que suelen ser algo tediosas y aburridas. Por último, debes aprender a usar frameworks. Los frameworks son bibliotecas de códigos pre-construidos que te van ayudar a construir sitios webs y aplicaciones más rápido. Estos son tan comunes que la mayoría de sitios web utilizan al menos uno de estos. En primer lugar voy a mencionar Bootstrap, un framework que ayuda a construir sitios web con un sistema grid para organizar los componentes en pantalla de una manera más fácil, y el cual es muy sencillo de aprender además de que es muy potente, ya que ofrece excelentes características interactivas. Algunas alternativas muy interesantes son Foundation o Angular Material. Otro tipo de framework es JQuery, el cual estandariza la forma en que JavaScript funciona en distintos navegadores y da características adicionales que hace que sea más fácil construir interacciones. Framewors de JavaScript como AngularJS o la librería React se proveen de herramientas que te ayudan a construir aplicaciones que sin tener que sufrir tanto desarrollas rápido y de una manera sencilla. Por último, es posible que desees conocer WordPress, un sistema de gestión de contenidos popular que alimenta algo así como el 25% de todos los sitios en la web a nivel mundial. Aunque hay muchas más, considero todas estas herramientas esenciales. Así que si quieres trabajar en esta fabulosa industria, asegúrate de conocerlas y haber experimentado al menos una vez con estas herramientas. 
+
+![[2023-12-30_02-30.png]]
+![[2023-12-30_02-31.png]]
+![[2023-12-30_02-31_2.png]]
